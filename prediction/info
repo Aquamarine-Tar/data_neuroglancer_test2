@@ -1,0 +1,33 @@
+{
+  "data_type": "uint8",
+  "num_channels": 1,
+  "scales": [
+    {
+      "chunk_sizes": [
+        [
+          64,
+          64,
+          64
+        ]
+      ],
+      "encoding": "raw",
+      "key": "8_8_8",
+      "resolution": [
+        8,
+        8,
+        8
+      ],
+      "size": [
+        200,
+        200,
+        200
+      ],
+      "voxel_offset": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "type": "segmentation"
+}
